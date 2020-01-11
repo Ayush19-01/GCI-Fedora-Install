@@ -81,6 +81,12 @@ by itself. I chose to let the installer configure the space by itself.
 
 8. A getting started screen appears which briefs the user about the usage of the OS.
 
+___I faced no problem at all during the installation of fedora workstation 31, the installation process of fedora is pretty 
+straight forward and doesn't require any experience of linux usage, a windows/mac user can easily install it. Before fedora 
+I had been using debian(Ubuntu) and the problem I faced while installing Ubuntu was allocating the free space and converting
+it to ext4 format, but in fedora I didn't do anything with unallocated/free space and left it to the installer to decide, 
+which is a very good feature for someone who is as confused as I was during the installation of Ubuntu.___
+
 ## Screenshots after installation
 
 <p align="center">
