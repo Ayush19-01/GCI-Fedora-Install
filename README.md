@@ -42,4 +42,21 @@ becomes unallocated or free space, and that's what you want.
 
 # Installing the latest Fedora Workstation
 
-1. We have the
+1. Now we have craeted the bootable pendrive with Fedora Workstation ISO image and an unallocated/free space.
+
+2. Restart your computer and boot the pendrive, if booting pendrive is not enabled please enable it by opening bios of your PC.
+
+3. After the pendrive boots, user gets two options, one to try fedora and one to install fedora on hard drive, click on the 
+install on hard drive option.
+
+4. After that it is very simple as the intsaller guides the user to choose it's preferences, like time zone, keyboard layout and
+language.
+
+5. Next, the installer asks the user to select a partition to install fedora on or let the installer choose the free space
+by itself. I chose to let the installer configure the space by itself.
+
+6. Fedora gets installed and asks the user to restart, after the restart you can use the Fedora Workstation.
+
+7. The user selects language, sets username, password for that user.
+
+8. A getting started screen appears which briefs the user about the usage of the OS.
