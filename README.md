@@ -65,6 +65,10 @@ shrinked becomes unallocated or free space, and that's what you want.
 3. After the pendrive boots, user gets two options, one to try fedora and one to install fedora on hard drive, click on the 
 install on hard drive option.
 
+<p align="center">
+  <img src="https://github.com/Ayush19-01/GCI-Fedora-Install/blob/master/10.jpg">
+</p>
+
 4. After that it is very simple as the intsaller guides the user to choose it's preferences, like time zone, keyboard layout and
 language.
 
@@ -76,3 +80,37 @@ by itself. I chose to let the installer configure the space by itself.
 7. The user selects language, sets username, password for that user.
 
 8. A getting started screen appears which briefs the user about the usage of the OS.
+
+## Screenshots after installation
+
+<p align="center">
+  <img src="https://github.com/Ayush19-01/GCI-Fedora-Install/blob/master/5.png">
+</p>
+
+
+
+<p align="center">
+  <img src="https://github.com/Ayush19-01/GCI-Fedora-Install/blob/master/6.png">
+</p>
+
+
+
+<p align="center">
+  <img src="https://github.com/Ayush19-01/GCI-Fedora-Install/blob/master/7.png">
+</p>
+
+
+
+<p align="center">
+  <img src="https://github.com/Ayush19-01/GCI-Fedora-Install/blob/master/8.png">
+</p>
+
+
+
+<p align="center">
+  <img src="https://github.com/Ayush19-01/GCI-Fedora-Install/blob/master/9.png">
+</p>
+
+
+
+
