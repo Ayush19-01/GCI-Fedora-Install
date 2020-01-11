@@ -49,12 +49,16 @@ lock screen wallpaper with GNOME 3.34, the options are user-friendly and useful.
 
 5. After the ISO file is burnt on the pendrive, make an empty partition out of your current hard disk, the size can differ  
 according to your needs, though 100-200 GB is recommended. To do that, type disk management on the search bar of windows and 
-click on the first option. Here right click on the partition of your choice and click shrink volume. The space that is shrinked
-becomes unallocated or free space, and that's what you want.
+click on the first option. Here right click on the partition of your choice and click shrink volume. The space that is 
+shrinked becomes unallocated or free space, and that's what you want.
+
+<p align="center">
+  <img src="https://github.com/Ayush19-01/GCI-Fedora-Install/blob/master/4.png">
+</p>
 
 # Installing the latest Fedora Workstation
 
-1. Now we have craeted the bootable pendrive with Fedora Workstation ISO image and an unallocated/free space.
+1. Now we have created the bootable pendrive with Fedora Workstation ISO image and an unallocated/free space.
 
 2. Restart your computer and boot the pendrive, if booting pendrive is not enabled please enable it by opening bios of your PC.
 
