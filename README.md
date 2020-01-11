@@ -19,7 +19,7 @@ contribution as a volunteer worker.
     <img src="https://github.com/Ayush19-01/GCI-Fedora-Install/blob/master/2.jpg">
 </p>
 
-___Fedora___Workstation 31 is the latest version of the ___Fedora___ workstation series. It comes with new GNOME 3.34 which brings
+___Fedora___ Workstation 31 is the latest version of the ___Fedora___ workstation series. It comes with new GNOME 3.34 which brings
 some visual changes and performance improvements from it's previous versions.It is easier to change the background or 
 lock screen wallpaper with GNOME 3.34, the options are user-friendly and useful. It is based on a noarch structure ,which 
 means, it plays with the RPM packages.
