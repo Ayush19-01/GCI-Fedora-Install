@@ -76,7 +76,7 @@ language.
 5. Next, the installer asks the user to select a partition to install ___Fedora___ on or let the installer choose the free space
 by itself. I chose to let the installer configure the space by itself. Cick install after selecting all preferences.
 
-6. ___Fedora__ gets installed and asks the user to restart, after the restart you can use the ___Fedora___ Workstation.
+6. ___Fedora___ gets installed and asks the user to restart, after the restart you can use the ___Fedora___ Workstation.
 
 7. The user selects language, sets username, password for that user.
 
